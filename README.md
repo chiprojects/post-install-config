@@ -35,7 +35,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<h3>1.Enter account details for Helpdesk login page URL: http://localhost/osTicket/scp/login.php </h3>
+<h3>1.Enter account details for Helpdesk login page URL: http://localhost/osTicket/scp/login.php </h3> (Starts: 5:12)
+
+[![Video Title](https://img.youtube.com/vi/R-tf_cbDJZU/0.jpg)](https://youtu.be/R-tf_cbDJZU?si=AWEroO60S1xjXcer&t=312)
 
 <b>*Note*:</b> Notice the difference between the <b>Agent Panel</b> and <b>Admin Panel</b>. You'll know you're on the right panel view when you see the following: 
 
@@ -81,13 +83,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>5.Configure Settings that Allow Anyone to Create Tickets</h3>
 <ul>
-  <li>Navigate to <b>Admin Panel</b> > <i>Agents</i> > <i>Teams</i> > <i>Add New Role</i></li>
-  <li>Name the Team (Ex.<b>Incident Response</b>)</li>
-  <li>Define permissions for the new agent based on the role they will have</li>
-    - <b>Note:</b> For this lab, we will assign all permissions under the following tabs: <b>Tickets</b>, <b>Tasks</b>, and <b>Knowledgebase</b>
+  <li>Navigate to <b>Admin Panel</b> > <i>Settings</i> > <i>User Settings</i></li>
+  <li>Uncheck: <b>Require registration and login to create tickets</b></li>
+  <li>For Registration Method: Select <b>Public - Anyone can register </b></li>
+    - <b>Note:</b> When we go through the next lab: <b>Ticket Lifecycle</b>, these steps will make more sense. Essentially, we are configuring the settings so unregistered users can login and submit tickets through the help desk.
 </ul>
 
-
+![image](https://github.com/user-attachments/assets/22c721df-5338-43a5-b5de-05fb8a001683)
 
 
 
