@@ -91,6 +91,29 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![image](https://github.com/user-attachments/assets/22c721df-5338-43a5-b5de-05fb8a001683)
 
+<h3>6.Configure Agents</h3>
+<ul>
+  <li>Navigate to <b>Admin Panel</b> > <i>Agents</i> > <i>Add New Agent</i> </li>
+  <li>Enter the following: </li>
+    - <b>Name</b> <br>
+    - <b>Email Address</b> <br>
+    - <b>Username</b>
+
+![image](https://github.com/user-attachments/assets/a427bc08-e9fa-47fa-8c24-b5d2e94066a6)
+
+  <li>Select <b>Set Password</b> and uncheck <b>Send the agent a new password reset</b></li>
+  <li>Enter new password and uncheck <b>Require password change at next login</b> > Set</li>
+
+![image](https://github.com/user-attachments/assets/e8f51506-7882-4689-a13a-e32152ef3a5c)
+
+ <li>Select the <b>Assign Tab</b> and assign the agent to a <b>Primary Department</b> and <b>Role</b> > Create</li>
+
+ ![image](https://github.com/user-attachments/assets/ea563042-156f-4f32-a226-780750ca8b7d) <br>
+    - <b>Note:</b> Repeat the steps above for Agent #2
+</ul>
+
+
+
 
 
 
