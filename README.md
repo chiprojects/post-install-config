@@ -42,10 +42,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/user-attachments/assets/399aacc6-ea85-44f4-ae72-fa6f5315ca89)
 
 
-<h3>2. Configure Roles</h3>
+<h3>2.Configure Roles</h3>
 <ul>
   <li>Navigate to <b>Admin Panel</b> > <i>Agents</i> > <i>Roles</i> > <i>Add New Role</i> </li>
-  <li>Name the New Role (Ex. `Supreme Admin`)</li>
+  <li>Name the New Role (Ex.<b>Supreme Admin</b>)</li>
   <li>Define permissions for the new agent based on the role they will have</li>
     - <b>Note:</b> For this lab, we will assign all permissions under the following tabs: <b>Tickets</b>, <b>Tasks</b>, and <b>Knowledgebase</b>
 </ul>
@@ -54,13 +54,46 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![image](https://github.com/user-attachments/assets/34ee95bc-ec8b-4866-8c87-6d4c0a00fa99)
 
-<h3>3. Configure Departments</h3>
+<h3>3.Configure Departments</h3>
 <ul>
-  <li>Navigate to <b>Admin Panel</b> > <i>Agents</i> > <i>Roles</i> > <i>Add New Role</i> </li>
-  <li>Name the New Role (Ex. `Supreme Admin`)</li>
+  <li>Navigate to <b>Admin Panel</b> > <i>Agents</i> > <i>Departments</i> > <i>Add New Department</i> </li>
+  <li>Name the Department (Ex. <b>SysAdmin</b>)</li>
+    - <b>Note:</b> For this lab, we will create one department, but feel free to create other departments which are used to control ticket visibility and assign responsibility.
+</ul>
+
+![image](https://github.com/user-attachments/assets/0efc9b37-308f-481d-ae6b-753a72f2ab7d)
+
+![image](https://github.com/user-attachments/assets/e3465a64-6df7-4bba-a7cc-4f3d438d8ab8)
+
+
+<h3>4.Configure Teams</h3>
+<ul>
+  <li>Navigate to <b>Admin Panel</b> > <i>Agents</i> > <i>Teams</i> > <i>Add New Role</i></li>
+  <li>Name the Team (Ex.<b>Incident Response</b>)</li>
   <li>Define permissions for the new agent based on the role they will have</li>
     - <b>Note:</b> For this lab, we will assign all permissions under the following tabs: <b>Tickets</b>, <b>Tasks</b>, and <b>Knowledgebase</b>
 </ul>
+
+![image](https://github.com/user-attachments/assets/d29997ea-8cae-4ac6-b32f-28b0c4e1398c)
+
+![image](https://github.com/user-attachments/assets/10688007-35ab-4b1c-8161-42a05c0f42c2)
+
+
+<h3>5.Configure Settings that Allow Anyone to Create Tickets</h3>
+<ul>
+  <li>Navigate to <b>Admin Panel</b> > <i>Agents</i> > <i>Teams</i> > <i>Add New Role</i></li>
+  <li>Name the Team (Ex.<b>Incident Response</b>)</li>
+  <li>Define permissions for the new agent based on the role they will have</li>
+    - <b>Note:</b> For this lab, we will assign all permissions under the following tabs: <b>Tickets</b>, <b>Tasks</b>, and <b>Knowledgebase</b>
+</ul>
+
+
+
+
+
+
+
+
 
 
    
